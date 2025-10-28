@@ -8,7 +8,3 @@ My role focused on designing and implementing the **Guest Login module** using *
 
 This system enhances the efficiency and reliability of blood donation operations by providing a user-friendly platform for both donors and administrators.
 
----
-
-Would you like me to make a **shorter LinkedIn-style version (2–3 lines)** or a **longer resume-style version (with bullet points and tech stack)** next?
-
