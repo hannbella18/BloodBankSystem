@@ -64,20 +64,6 @@ The system is built on a robust relational database schema designed to ensure da
 
 ---
 
-## 📸 Screenshots
-
-| Landing Page | Donor Dashboard |
-| :---: | :---: |
-| ![Landing Page](https://via.placeholder.com/400x200?text=Home+Page) | ![Dashboard](https://via.placeholder.com/400x200?text=Donor+Dashboard) |
-| *Public informational site* | *User management interface* |
-
-| Appointment Booking | Admin Panel |
-| :---: | :---: |
-| ![Booking](https://via.placeholder.com/400x200?text=Appointment+Form) | ![Admin](https://via.placeholder.com/400x200?text=Admin+Panel) |
-| *Secure booking system* | *CRUD operations for staff* |
-
----
-
 ## 👥 Project Team (Group 1)
 
 **Nurfarhannis Nabila Binti Mohd Fauzi** (216535)
